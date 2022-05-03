@@ -1,7 +1,5 @@
 ### Ryan Pokrzywinski
 
-Here are some ideas to get you started:
-
 I am currently a Senior at the University of Iowa Studying Business Analytics. After graduation I will be working at RSM LLP as Data Analyst.
 
 <!--
